@@ -1,0 +1,8 @@
+name: ansible-py27-r20181207
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=2.7
+  - ansible
+  - ansible-vault
