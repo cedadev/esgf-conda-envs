@@ -1,0 +1,5 @@
+name: simple-py27-r20190602
+channels:
+  - conda-forge
+  - defaults
+dependencies:
