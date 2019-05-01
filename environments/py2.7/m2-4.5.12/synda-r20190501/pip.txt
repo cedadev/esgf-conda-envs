@@ -1,0 +1,5 @@
+pythonjsonrpc==0.10.0
+myproxyclient==2.1.0
+pythondaemon==1.6.1
+backports.functoolslrucache==1.5
+
