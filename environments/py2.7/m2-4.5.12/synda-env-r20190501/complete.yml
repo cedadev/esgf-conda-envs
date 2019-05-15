@@ -1,4 +1,4 @@
-name: synda-r20190501
+name: synda-env-r20190501
 channels:
   - conda-forge
   - defaults
@@ -44,7 +44,7 @@ dependencies:
     - https://conda.anaconda.org/conda-forge/linux-64/setuptools-41.0.1-py27_0.tar.bz2
     - https://conda.anaconda.org/conda-forge/noarch/backports.functools_lru_cache-1.5-py_1.tar.bz2
     - https://conda.anaconda.org/conda-forge/linux-64/cryptography-2.6.1-py27h72c5cf5_0.tar.bz2
-    - https://conda.anaconda.org/conda-forge/linux-64/reportlab-3.5.20-py27h7d98c4e_0.tar.bz2
+    - https://conda.anaconda.org/conda-forge/linux-64/reportlab-3.5.21-py27h7d98c4e_0.tar.bz2
     - https://conda.anaconda.org/conda-forge/linux-64/wheel-0.33.1-py27_0.tar.bz2
     - https://conda.anaconda.org/conda-forge/linux-64/pip-19.1-py27_0.tar.bz2
     - https://conda.anaconda.org/conda-forge/linux-64/pyopenssl-19.0.0-py27_0.tar.bz2

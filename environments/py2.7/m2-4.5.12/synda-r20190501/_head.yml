@@ -1,5 +1,0 @@
-name: synda-r20190501
-channels:
-  - conda-forge
-  - defaults
-dependencies:

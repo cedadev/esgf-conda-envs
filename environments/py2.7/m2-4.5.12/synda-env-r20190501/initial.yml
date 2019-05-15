@@ -1,4 +1,4 @@
-name: synda-r20190501
+name: synda-env-r20190501
 channels:
   - conda-forge
   - defaults
