@@ -23,13 +23,14 @@ TOP_DIR=cdds-env
 CDDS_TAG_URL=https://code.metoffice.gov.uk/svn/cdds/main/tags/1.1.0
 ENVS_REPO=https://github.com/cedadev/esgf-conda-envs
 REQUIRED_PACKAGES="cdds_convert"
+GWS=/gws/smf/j04/cmip6_prep
 
 rm -fr $TOP_DIR
 mkdir -p $TOP_DIR
 cd $TOP_DIR/
 
 SETUP_SCRIPT=$PWD/setup_cdds_env.sh
-export JASPY_BASE_DIR=/usr/local/tmp/jaspy_base
+export JASPY_BASE_DIR=$GWS/jaspy_base
 mkdir -p $JASPY_BASE_DIR
 
 git clone https://github.com/cedadev/jaspy-manager
