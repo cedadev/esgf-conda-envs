@@ -9,14 +9,15 @@ dependencies:
   - cftime=1.0.1
   - cartopy=0.16.0
   - iris=1.13
-  - mock
-  - configparser
-  - jinja2
-  - mysql-python
-  - pep8
-  - filelock
-  - pip
+  - configparser=3.7.3
+  - filelock=3.0.10
+  - geos=3.6.2
+  - jinja2=2.10.1
   - libgcc-ng=7.2.0
+  - mock=3.0.5
+  - mysql-python=1.2.5
+  - pep8=1.7.1
+  - pip=19.1
 # Pip installs
   - pip:
     - dreqpy
