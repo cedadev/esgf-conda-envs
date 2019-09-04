@@ -22,7 +22,8 @@ fi
 TOP_DIR=cdds-env
 CDDS_TAG_URL=https://code.metoffice.gov.uk/svn/cdds/main/tags/1.1.0
 ENVS_REPO=https://github.com/cedadev/esgf-conda-envs
-REQUIRED_PACKAGES="cdds_convert"
+REQUIRED_PACKAGES="hadsdk mip_convert cdds_configure cdds_convert cdds_prepare cdds_qc"
+
 GWS=/gws/smf/j04/cmip6_prep
 
 rm -fr $TOP_DIR
