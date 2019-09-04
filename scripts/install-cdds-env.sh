@@ -14,7 +14,7 @@ if [ ! $SVN_CDDS_USERNAME ]; then
 fi
 
 if [ ! $SVN_CDDS_PASSWORD ]; then
-    echo "[ERROR] Must set SVN_CDDS_ername environment variable."
+    echo "[ERROR] Must set SVN_CDDS_PASSWORD environment variable."
     exit
 fi
 

@@ -1,0 +1,22 @@
+name: cdds-env-r20190719
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - scipy=1.1.0
+  - nc-time-axis=1.1.0
+  - netcdf4=1.3.1
+  - cftime=1.0.1
+  - cartopy=0.16.0
+  - iris=1.13
+  - mock
+  - configparser
+  - jinja2
+  - mysql-python
+  - pep8
+  - filelock
+  - pip
+  - libgcc-ng=7.2.0
+# Pip installs
+  - pip:
+    - dreqpy
