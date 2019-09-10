@@ -76,7 +76,7 @@ owslib-0.18.0-py_0
 pcre-8.41-hfc679d8_3
 pep8-1.7.1-py_0
 pillow-5.2.0-py27h2dc6135_1
-pip-19.2.3-py27_0
+pip-19.1.1-py27_0
 proj4-4.9.3-hc8507d1_7
 pthread-stubs-0.4-h470a237_1
 pycparser-2.19-py27_1
